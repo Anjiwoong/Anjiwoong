@@ -18,4 +18,4 @@
 
 
 
-![Jiwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjiwoong&show_icons=true&theme=Setting card locale)
+![Jiwoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjiwoong&show_icons=true&theme=default)

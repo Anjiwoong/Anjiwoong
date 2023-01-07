@@ -7,7 +7,7 @@
 </a>
 <a href="mailto:"dkswldnd10@gmail.com">
   <img src="https://img.shields.io/badge/dkswldnd10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+</a> 
 
 ## :computer: Tech Skills
 
